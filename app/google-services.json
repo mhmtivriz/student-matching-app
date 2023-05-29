@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472829705299",
+    "project_id": "homemate-application",
+    "storage_bucket": "homemate-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472829705299:android:353413e9e5b294e5ad5aa6",
+        "android_client_info": {
+          "package_name": "com.example.helloworldapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZhxbQt5ssl6GOBTEpWfkJuffYhrIotc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
